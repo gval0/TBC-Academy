@@ -4,4 +4,4 @@
 Architecture: HTML, CSS, JS
 
 
-To run clone repo, open index.html file in a browser of your choosing
+To run clone repo, open TbcConcept/index.html file in a browser of your choosing
